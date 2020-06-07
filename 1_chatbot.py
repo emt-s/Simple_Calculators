@@ -1,0 +1,10 @@
+x1=input('name an object in this room : ')
+x2=input('what kind of food do you like : ')
+x3=input('what is your favorite color : ')
+x4=input('enter a name of animal you like it : ')
+print('  ')
+print('  ')
+print('------------------------------------------')
+print('  ')
+print('The',x4,'jump onto the',x3,x1,'and flew across the city to eat',
+      x2,'at his favorite restaurant')
